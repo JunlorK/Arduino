@@ -1,0 +1,9 @@
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\bin\Debug\T1.exe.config
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\bin\Debug\T1.exe
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\bin\Debug\T1.pdb
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\obj\Debug\T1.csprojResolveAssemblyReference.cache
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\obj\Debug\T1.Form1.resources
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\obj\Debug\T1.Properties.Resources.resources
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\obj\Debug\T1.csproj.GenerateResource.Cache
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\obj\Debug\T1.exe
+c:\users\juniok\documents\visual studio 2012\Projects\T1\T1\obj\Debug\T1.pdb
